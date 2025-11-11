@@ -153,3 +153,8 @@ then run the cell, it will shows the Compare metrics across models
 | ARIMA            | 0.22 | 0.46 | 0.36 | 3.88     | 1.00 |
 | Refined LSTM     | 0.78 | 0.80 | 0.60 | 13.38    | 0.99 |
 ```
+
+**link**
+
+Open-Meteo: “Free weather API with historical and forecast data,” - https://open-meteo.com/
+
